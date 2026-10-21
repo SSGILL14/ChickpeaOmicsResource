@@ -12,15 +12,15 @@
 
 ## Databases & atlases
 
-<table width="75%">
-<tr><td width="690" valign="top">
+<table align="center" width="75%">
+<tr><td width="690" align="left" valign="top">
 <h3><a href="https://github.com/LegumeHub/Chickpea-Genomics-Atlas">Chickpea Genomics Atlas ↗</a></h3>
 <p>Gene expression across chickpea tissues and developmental stages.</p>
 </td></tr>
 </table>
 
-<table width="75%">
-<tr><td width="690" valign="top">
+<table align="center" width="75%">
+<tr><td width="690" align="left" valign="top">
 <h3><a href="http://chickpea.mdu.ac.in">ChickpeaOmicsExplorer ↗</a></h3>
 <p>Gene expression, functional annotations and co-expression networks.</p>
 <p><a href="https://github.com/SSGILL14/ChickpeaOmicsExplorer">Supplementary methods ↗</a></p>
@@ -29,8 +29,8 @@
 
 ## Data & study code
 
-<table width="75%">
-<tr><td width="690" valign="top">
+<table align="center" width="75%">
+<tr><td width="690" align="left" valign="top">
 <h3><a href="https://github.com/legumeinfo/datastore-metadata/tree/main/Cicer">LIS Cicer metadata ↗</a></h3>
 <p>Metadata and provenance for Cicer genome and annotation collections.</p>
 </td></tr>
@@ -38,15 +38,15 @@
 
 ## Analysis tools
 
-<table width="75%">
-<tr><td width="690" valign="top">
+<table align="center" width="75%">
+<tr><td width="690" align="left" valign="top">
 <h3><a href="https://github.com/legumeinfo/gcv">Genome Context Viewer ↗</a></h3>
 <p>Comparative gene-order and synteny visualization.</p>
 </td></tr>
 </table>
 
-<table width="75%">
-<tr><td width="690" valign="top">
+<table align="center" width="75%">
+<tr><td width="690" align="left" valign="top">
 <h3><a href="https://github.com/legumeinfo/pandagma">Pandagma ↗</a></h3>
 <p>Pangene and gene-family construction from genome annotations.</p>
 </td></tr>
