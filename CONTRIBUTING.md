@@ -3,8 +3,8 @@
 Edit [README.md](README.md) and open a pull request. Copy this complete card under the appropriate heading:
 
 ```html
-<table width="75%">
-<tr><td width="690" valign="top">
+<table align="center" width="75%">
+<tr><td width="690" align="left" valign="top">
 <h3><a href="https://github.com/OWNER/REPOSITORY">Resource name ↗</a></h3>
 <p>One short description of the resource.</p>
 </td></tr>
