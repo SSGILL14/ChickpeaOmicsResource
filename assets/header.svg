@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Chickpea research resources">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#142f2b"/><stop offset="1" stop-color="#233d30"/></linearGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#c5d899" opacity=".13"/></pattern></defs>
+<rect width="1280" height="340" rx="24" fill="url(#bg)"/>
+<rect x="760" width="520" height="340" fill="url(#dots)"/>
+<text x="58" y="50" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#c5d899">CHICKPEA OMICS EXPLORER</text>
+<path d="M58 76h1164" stroke="#adc28f" stroke-opacity=".22"/>
+<text x="58" y="153" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#faf8ee">Chickpea research</text>
+<text x="58" y="222" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#c5d899">resources.</text>
+
+<text x="61" y="284" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#c5d899">DATABASES · DATA · ANALYSIS TOOLS</text>
+<g transform="translate(1010 196) scale(.82)">
+<circle r="130" fill="none" stroke="#a8c08c" stroke-opacity=".26"/>
+<circle r="98" fill="none" stroke="#a8c08c" stroke-opacity=".25" stroke-dasharray="3 9"/>
+<path d="M-124-41L-41-123 106-75 126 42 35 125-96 87Z" fill="none" stroke="#c5d899" stroke-opacity=".3"/>
+<g fill="#c5d899"><circle cx="-124" cy="-41" r="7"/><circle cx="-41" cy="-123" r="5"/><circle cx="106" cy="-75" r="7"/><circle cx="126" cy="42" r="5"/><circle cx="35" cy="125" r="7"/><circle cx="-96" cy="87" r="5"/></g>
+<path d="M-40 37C-85 9-53-60-4-53 25-87 82-47 66 0 76 49 20 81-15 59-25 57-34 48-40 37Z" fill="#d89557"/>
+<path d="M-8 42C-32 18-29-20 0-39" fill="none" stroke="#ffe0aa" stroke-width="3" stroke-linecap="round"/>
+<path d="M0-39C1-70 31-87 54-84 51-60 26-45 0-39Z" fill="#c5d899"/>
+</g></svg>
